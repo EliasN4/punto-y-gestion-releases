@@ -1,0 +1,9 @@
+{
+  "product": "punto-y-gestion",
+  "version": "2.1.0",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.0.exe",
+  "sha256": "a13d49ae5c25c8cbb757bba70f5fbd283e9d17a0956e4e22961475de4759f4f6",
+  "notes": "Ventana nativa de Windows, primer inicio compacto, recursos offline, mejoras de POS móvil, seguridad y soporte comercial.",
+  "mandatory": false,
+  "signature": "kM5vYDJNm-IHLVRQTFWDww0LEPi1gXYkZyQTRiUoIGWlPdS1qRYtCSb3uwuxcnnwiYKg2gkM4KOlc8cIZBxbBw"
+}
