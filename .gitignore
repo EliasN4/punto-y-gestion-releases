@@ -1,0 +1,9 @@
+*.pem
+*.key
+*.db
+*.sqlite*
+*.py
+templates/
+static/
+instance/
+backups/
