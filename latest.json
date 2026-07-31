@@ -1,9 +1,8 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.1",
-  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.1/Instalar_Punto_y_Gestion_2.1.1.exe",
-  "sha256": "5d1cc045cf9641b7134c48cfae8914e4eaad4a0d6933bc8e95826f24c3d0af9a",
-  "notes": "v2.1.1 - Actualizacion de produccion: Bitacora POS, WhatsApp con unitarios, Consumidor Final en Caja Diaria y Remitos, Impresion multiformato de Deuda",
-  "mandatory": false,
-  "signature": "VOQe3Qd_UedJTosK7jx-aJeN6AGtt39v4p1DiNyAkg0Snw7bvPPqCzG_BlxtROD5aeD2vmI-pkf8aH54r0UZDw"
+  "version": "2.1.2",
+  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.2/Instalar_Punto_y_Gestion_2.1.2.exe",
+  "sha256": "73e6d1d3f5231c90a22058f8cd6e102f85da4bc359b35439c58eafe0f6fc8896",
+  "notes": "Versión 2.1.2: Creador de listas A4/JPG, Ficha con evolución de precio, Categorización masiva y solución de bitácora del POS.",
+  "mandatory": false
 }
