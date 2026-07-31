@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.2",
-  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.2/Instalar_Punto_y_Gestion_2.1.2.exe",
-  "sha256": "73e6d1d3f5231c90a22058f8cd6e102f85da4bc359b35439c58eafe0f6fc8896",
-  "notes": "Version 2.1.2: Creador de listas A4/JPG, Ficha con evolucion de precio, Categorizacion masiva y solucion de bitacora del POS.",
+  "version": "2.1.3",
+  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.3/Instalar_Punto_y_Gestion_2.1.3.exe",
+  "sha256": "22a6fa5fb8e6e4a5f603ca206cfa4a4e1ce4ae04af0d202e2430ead07b94eeab",
+  "notes": "v2.1.3: Fix bitacora POS (corte de renglones y cantidades decimales), fix sistema de actualizaciones.",
   "mandatory": false,
-  "signature": "OdylY4Mtj1nAyEgsZgKZ6FpOfgY1yYcoEBXX_E2E69HGjDiKIJZYt9u1Z0PRvJWUdjTLaDH0G6W--tgPjKIfDg"
+  "signature": "vCIKm6cWrfEwg0_f-jr_GA7Pq4pOJAFystJoC4K7Ah7IZcmye31vSQZwVCKw8WZH3uwGYmoE0LqKGDeWI3WgBQ"
 }
