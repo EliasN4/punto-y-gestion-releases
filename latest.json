@@ -3,6 +3,7 @@
   "version": "2.1.2",
   "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.2/Instalar_Punto_y_Gestion_2.1.2.exe",
   "sha256": "73e6d1d3f5231c90a22058f8cd6e102f85da4bc359b35439c58eafe0f6fc8896",
-  "notes": "Versión 2.1.2: Creador de listas A4/JPG, Ficha con evolución de precio, Categorización masiva y solución de bitácora del POS.",
-  "mandatory": false
+  "notes": "Version 2.1.2: Creador de listas A4/JPG, Ficha con evolucion de precio, Categorizacion masiva y solucion de bitacora del POS.",
+  "mandatory": false,
+  "signature": "OdylY4Mtj1nAyEgsZgKZ6FpOfgY1yYcoEBXX_E2E69HGjDiKIJZYt9u1Z0PRvJWUdjTLaDH0G6W--tgPjKIfDg"
 }
