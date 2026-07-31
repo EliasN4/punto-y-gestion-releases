@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.0",
-  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.0/Instalar_Punto_y_Gestion_2.1.0.exe",
-  "sha256": "c3dc14cd0afccfd43816ff1099b95361e70887fd55cb0cc199c38c5a5b49e7ab",
-  "notes": "v2.1.0 - Bitacora POS, WhatsApp con unitarios, Consumidor Final en Caja Diaria y Remitos, Impresion multiformato de Deuda",
+  "version": "2.1.1",
+  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.1/Instalar_Punto_y_Gestion_2.1.1.exe",
+  "sha256": "5d1cc045cf9641b7134c48cfae8914e4eaad4a0d6933bc8e95826f24c3d0af9a",
+  "notes": "v2.1.1 - Actualizacion de produccion: Bitacora POS, WhatsApp con unitarios, Consumidor Final en Caja Diaria y Remitos, Impresion multiformato de Deuda",
   "mandatory": false,
-  "signature": "F9lmQ63kB9xyNse3XQofnDshDnLgRTRTTP4f92WjV4N-WtbChSiUtCMBgfcD5c5UUzkpPfJNCJGZ0lZOhkZ9BA"
+  "signature": "VOQe3Qd_UedJTosK7jx-aJeN6AGtt39v4p1DiNyAkg0Snw7bvPPqCzG_BlxtROD5aeD2vmI-pkf8aH54r0UZDw"
 }
