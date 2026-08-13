@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
   "version": "2.1.6",
-  "download_url": "https://github.com/EliasN4/punto-y-gestion-releases/releases/download/v2.1.6/Instalar_Punto_y_Gestion_2.1.6.exe",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.6.exe",
   "sha256": "a8347242f95d42d45bb1cc47ef2111ea2c8ab0848d45ad4360c2f0b43eb71d92",
   "notes": "Version 2.1.6: actualiza el canal de soporte por WhatsApp al nuevo numero 3412509026.",
   "mandatory": false,
-  "signature": "DDezTO_9hx7cFDOeHKwOH8MIMorPTIaaijfrk34fRAwQ5-fkaGtrAFXTMsb7X_ozhjpqpP1lWy2ECzsFhbo0AA"
+  "signature": "ONo3796uLhCBybI96EQC7JSOhJOJ3fq55sQO1mLZrjSZI7oydEB5IA0nJi2eu4uNl39mgOMrceyf8PkkaLAUCg"
 }
