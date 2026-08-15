@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.7",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.7.exe",
-  "sha256": "3887ea7a12701e0ecda70f0869fbadb8b5c6cce00110b6f3f65aa987572ddcef",
-  "notes": "Version 2.1.7: corrige la busqueda por texto del POS y mantiene los fixes de caja y atajos.",
+  "version": "2.1.8",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.8.exe",
+  "sha256": "babfa7a69e597c4c5542eda81a1a1fb77a38c52325fd132317e46530b1d6abd3",
+  "notes": "Versión 2.1.8: corrige la impresión directa de tickets térmicos de 58 mm y 80 mm desde el POS y conserva las mejoras de la 2.1.7.",
   "mandatory": false,
-  "signature": "WgrmHfrTVXsDaSCkshyqdqscUo43ZtqGrIqaobpAIk9PKK0F-5EGLDMEqm143_KnBoakF9urZZbMVaHOyiqBDw"
+  "signature": "_WiE5gtQIoYq1oiksl9mYaOqV_Ge_ebC7WOZpYZGNpxgkJb74UQ9LG5F_R2OfZAQD4Lb3tXQMzcEyoB11EEaDw"
 }
