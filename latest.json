@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.9",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.9.exe",
-  "sha256": "3ac848ab2d39e621b367d1ab46c972801eeeb771ce97c4e849c9cbf712659072",
-  "notes": "Versión 2.1.9: incorpora importación de listas externas con vista previa y OCR local, mejoras de pagos, impresión y caja diaria. ARCA continúa bloqueado hasta una validación fiscal independiente.",
+  "version": "2.1.10",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.10.exe",
+  "sha256": "cb893d039e342f61d33e4c87448890512a1b606832203dba877ac94094e258c3",
+  "notes": "Version 2.1.10: mejoras en importacion de listas con seleccion y codigos, historial minorista y mayorista separado, copias y configuracion de carteles, comprobantes A5 y anulaciones, descarga JPG y POS movil. Incluye correcciones de recursos visuales, canal de actualizaciones y lector PDF actualizado.",
   "mandatory": false,
-  "signature": "valxGwp-KZKKVJn9RKJ8D8r49HJLKhv0DDShZ-SRnQt8lKu5xqlWVD2fGL0xWqr6y6ORTfVdwazgaW8ONnn3Aw"
+  "signature": "pTgs1jU8LzxrGdCvEoux7Q54UreD-JzTkmuoWV6CS7bGhzeXsmDZ3cg5XV0wp3rF628MFoWNFmmuiya27C3YAg"
 }
