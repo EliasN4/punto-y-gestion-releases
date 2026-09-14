@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.10",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.10.exe",
-  "sha256": "cb893d039e342f61d33e4c87448890512a1b606832203dba877ac94094e258c3",
-  "notes": "Version 2.1.10: mejoras en importacion de listas con seleccion y codigos, historial minorista y mayorista separado, copias y configuracion de carteles, comprobantes A5 y anulaciones, descarga JPG y POS movil. Incluye correcciones de recursos visuales, canal de actualizaciones y lector PDF actualizado.",
+  "version": "2.1.11",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.11.exe",
+  "sha256": "a19bc139dab537fdaff495c2a529ec7581e4cfc8364edd800125b38d94e8842c",
+  "notes": "Version 2.1.11: interfaz renovada, navegacion y configuracion unificadas, Auditoria Diaria compacta, mejoras de POS/Productos/Clientes en celular, integridad de ventas y pagos, copias y seguridad. Corrige el arranque Windows y excluye archivos privados del paquete.",
   "mandatory": false,
-  "signature": "pTgs1jU8LzxrGdCvEoux7Q54UreD-JzTkmuoWV6CS7bGhzeXsmDZ3cg5XV0wp3rF628MFoWNFmmuiya27C3YAg"
+  "signature": "_i6n14O0sYs9XusKW68BQNpilsu13n5ffZW-N3kFxNfUm00uuYgcms0dVy2lWwGvOfdUlDsX146YLCDFB8jdBQ"
 }
