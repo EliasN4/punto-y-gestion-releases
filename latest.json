@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.12b",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.12b.exe",
-  "sha256": "e23f28bf6b115b5e0add4de77ac00bf1b7c31ddaff83508e92c12ddefebf178d",
-  "notes": "Revision 2.1.12b: se corrigen las exportaciones JPG y PDF de listas de precios, respetando la vista de precios elegida.",
+  "version": "2.1.12c",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.12c.exe",
+  "sha256": "dbeb4b33e33f3a2ade4e59364de5c17ad3fbe8e9280d618629756c08bc035029",
+  "notes": "Revision 2.1.12c: se corrige el instalador para incluir los lectores de Excel y PDF usados por la importacion de listas de precios.",
   "mandatory": false,
-  "signature": "AK_Fu4S0q4adXzlDAfErvxToHHBlLJyS-icBtEVfbgLaxrY9spc-vKHmDo1Hy11U-Lk0Uf0YiZDTavgBRX2xDg"
+  "signature": "r4kdiDzwnvXjMfTYU55mV0oKTMWKeo0rWHKNp8xtjHZZtxY-mzqoli8KL--BuyF_xlOFTHrbVJWc2Yg0ih5qDA"
 }
