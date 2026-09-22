@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.12",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.12.exe",
-  "sha256": "966ae16b3d8c8875495e7cdb1e4b77317a5a4192990a6e3bfa56ace2ed8147d3",
-  "notes": "Version 2.1.12: Auditoria Diaria con perfiles de caja, mejoras de POS/iPhone y controles moviles; Mensajes queda como Proximamente hasta la proxima version.",
+  "version": "2.1.12b",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.12b.exe",
+  "sha256": "e23f28bf6b115b5e0add4de77ac00bf1b7c31ddaff83508e92c12ddefebf178d",
+  "notes": "Revision 2.1.12b: se corrigen las exportaciones JPG y PDF de listas de precios, respetando la vista de precios elegida.",
   "mandatory": false,
-  "signature": "eIn2g4FxCvsHz8EdkbYtLu_SgeJhVP5BSfar6-TfqieJ_X6uACaaZauHtddOYSTAJHTJ3O2M7wHSWvlcCjc1Aw"
+  "signature": "AK_Fu4S0q4adXzlDAfErvxToHHBlLJyS-icBtEVfbgLaxrY9spc-vKHmDo1Hy11U-Lk0Uf0YiZDTavgBRX2xDg"
 }
