@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.12c",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.12c.exe",
-  "sha256": "dbeb4b33e33f3a2ade4e59364de5c17ad3fbe8e9280d618629756c08bc035029",
-  "notes": "Revision 2.1.12c: se corrige el instalador para incluir los lectores de Excel y PDF usados por la importacion de listas de precios.",
+  "version": "2.1.13",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.13.exe",
+  "sha256": "297a037c33c10256028d4e34f15e5ef50acdb60f3e08ccd2676828b3f9b29338",
+  "notes": "Revision 2.1.13: se corrige el selector de clientes del POS en iPhone y la descarga JPG de listas de precios en la aplicacion instalada.",
   "mandatory": false,
-  "signature": "r4kdiDzwnvXjMfTYU55mV0oKTMWKeo0rWHKNp8xtjHZZtxY-mzqoli8KL--BuyF_xlOFTHrbVJWc2Yg0ih5qDA"
+  "signature": "41QDie_NZERnkD_iTGknflWqtOaswncBE8eJqwMoEiLV-jHdXLphjygXptl7k5PLyqdVdd-LfaHvcAg8oAPuDw"
 }
