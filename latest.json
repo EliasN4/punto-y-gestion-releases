@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.13",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.13.exe",
-  "sha256": "297a037c33c10256028d4e34f15e5ef50acdb60f3e08ccd2676828b3f9b29338",
-  "notes": "Revision 2.1.13: se corrige el selector de clientes del POS en iPhone y la descarga JPG de listas de precios en la aplicacion instalada.",
+  "version": "2.1.14",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.14.exe",
+  "sha256": "e8bd240f466257c0bdf4f7281bb79ad2bb7df4829d81ff52d38ec40a6d2aa498",
+  "notes": "Mejoras completas de modo oscuro y tutorial; ajustes POS y móvil; auditoría diaria optimizada para A4, A5 horizontal y tickets; tema persistente y mejoras de impresión.",
   "mandatory": false,
-  "signature": "41QDie_NZERnkD_iTGknflWqtOaswncBE8eJqwMoEiLV-jHdXLphjygXptl7k5PLyqdVdd-LfaHvcAg8oAPuDw"
+  "signature": "050Lp1RN-W5EAmsNDMM-d4lFcMxTkYTsv_yTm4fcaQO5-Y9yQHvgOjc31yA-Fa_D00hXgLlyiyGst4yb1IZlAA"
 }
