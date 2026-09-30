@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.14",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.14.exe",
-  "sha256": "e8bd240f466257c0bdf4f7281bb79ad2bb7df4829d81ff52d38ec40a6d2aa498",
-  "notes": "Mejoras completas de modo oscuro y tutorial; ajustes POS y móvil; auditoría diaria optimizada para A4, A5 horizontal y tickets; tema persistente y mejoras de impresión.",
+  "version": "2.1.15",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.15.exe",
+  "sha256": "a774b87d202576df21d4dc6b2506203e1fc76521d60947398f01c1a0a8eb310d",
+  "notes": "Impresion de listas con precios y ventana propia; selector de mes renovado; correcciones POS, caja simple, stock opcional, estadisticas y celular. PDF verificado con respaldo de navegador. Incluye modo oscuro, tutorial y respaldos de actualizacion.",
   "mandatory": false,
-  "signature": "050Lp1RN-W5EAmsNDMM-d4lFcMxTkYTsv_yTm4fcaQO5-Y9yQHvgOjc31yA-Fa_D00hXgLlyiyGst4yb1IZlAA"
+  "signature": "6B722VRC-op7rE78GgLH361Qga_CK0BSdUwJjd0iaIgV1EPnvhQxBZJ7mzqUJ39L6YZD0GqWJbV6T7f9kgZ2Ag"
 }
