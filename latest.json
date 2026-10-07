@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.17",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.17.exe",
-  "sha256": "e75f9e0ca55eb3d2a7633aeb48f4abf40b2f1cb4ad726c2a2e07c0fe8507c993",
-  "notes": "Prueba de 30 dias para nuevas instalaciones; categorias y variantes desde Productos, combos en el POS, carteles con codigo de barras, clientes y cuentas renovados, impresion compartida, Caja contra Z y mejoras de celular y contraste.",
+  "version": "2.1.18",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.18.exe",
+  "sha256": "4fb5af88b835961315653c1820d5a744d0be0a797999748298ca67b2a632c4fa",
+  "notes": "Guardado confirmado e historial de Caja simple y Caja Z; reintentos sin duplicar movimientos. Alta de clientes compartida con POS y perfiles renovados en claro, oscuro y celular. Impresion A5 horizontal y A4, copias completas, sin datos adicionales del navegador. Incluye las mejoras de 2.1.17; prueba nueva de 30 dias y fechas existentes conservadas.",
   "mandatory": false,
-  "signature": "gn-89X5SFpXhXQ-b-21R5lNF6jK5vuomacn2GgV02LGIR87MWfEax5OTnFWNUbEp5tPu_v9j9jUuoDypm2qZDg"
+  "signature": "WqqTV6QEhX7xj9fsmjzhHRO2oiwCBmNHh19k6qe2M5W0WasZ4ba95sdb32zj4syOieoqTnv8lU5hn9yke00IBg"
 }
