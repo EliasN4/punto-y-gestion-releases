@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.16",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.16.exe",
-  "sha256": "364b6bb9ef92954f5ce2c065222402e27ed37093b22169aa162c3e489f685d42",
-  "notes": "Caja simple completa y compacta; transferencias controladas, gastos por categoria y auditorias por fecha. Estadisticas renovadas con rankings de clientes y productos. Stock ON/OFF en POS, borradores sin recuperaciones falsas, avisos flotantes y dependencias actualizadas. Incluye las mejoras anteriores de modo oscuro, tutorial, impresion de precios y celular.",
+  "version": "2.1.17",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.17.exe",
+  "sha256": "e75f9e0ca55eb3d2a7633aeb48f4abf40b2f1cb4ad726c2a2e07c0fe8507c993",
+  "notes": "Prueba de 30 dias para nuevas instalaciones; categorias y variantes desde Productos, combos en el POS, carteles con codigo de barras, clientes y cuentas renovados, impresion compartida, Caja contra Z y mejoras de celular y contraste.",
   "mandatory": false,
-  "signature": "aZ4NWNzTihkmpoWBVc3NCN1Z3aHAkigvpU32XcMTjChli4xPwPxoBYOdC24Ud8fx1KQ56gEN7aVgoeyZXElDBA"
+  "signature": "gn-89X5SFpXhXQ-b-21R5lNF6jK5vuomacn2GgV02LGIR87MWfEax5OTnFWNUbEp5tPu_v9j9jUuoDypm2qZDg"
 }
