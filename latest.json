@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.21",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.21.exe",
-  "sha256": "27bd634f0a47adb918040fd8f0070273acfd105b6491b5c82c56292d543c9222",
-  "notes": "Notificaciones de actualizaciones, cuentas pendientes y resumen mensual. Listas de precios renovadas con PDF e imágenes. Fichas de clientes compactas, altas y comparaciones en Estadísticas. Rangos en Historial, configuración con vista previa de tema y mejoras de uso móvil.",
+  "version": "2.1.22",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.22.exe",
+  "sha256": "58cc27ada136933da84f3e49261ae4cf3ab80857956fe3800117b1100c09e881",
+  "notes": "Búsqueda global de clientes, ventas, comprobantes y productos. Resumen semanal y sugerencias guiadas opcionales. Pagos del POS renovados y acceso compacto en celular. Recibo A5 horizontal más claro. Listas de precios con categorías ordenadas, opción para evitar cortes e iconos de contacto alineados. Historial de Estadísticas con fechas y filtros alineados. Mejoras para claro, oscuro y celular.",
   "mandatory": false,
-  "signature": "EeT5QFHRp6z7GUljIe_gPv3uTNkQout-GfrUgRlZ8jvzzX2T3jN4ZC2gXYDLi3j_D-KAyDuRi9hIy9l7dQF_AQ"
+  "signature": "4A04dO4cdrypE1GHR5u5JmsyE3C5KeD-fdJlXLvZ-kLfFwNv8wSBr4qpWXoJBxePpxFiNP6bIFClruEl90gmAQ"
 }
