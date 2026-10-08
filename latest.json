@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.20",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.20.exe",
-  "sha256": "6ba7d54a99554ded75d0ca56e95014cf53f2357b5a25601615ff3597a036f2ec",
-  "notes": "Incluye las mejoras de clientes, historial, modales y combos del POS. Corrige los reintentos de guardado de promociones: conserva el borrador y evita duplicaciones o repetir ediciones ante cortes de conexión.",
+  "version": "2.1.21",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.21.exe",
+  "sha256": "27bd634f0a47adb918040fd8f0070273acfd105b6491b5c82c56292d543c9222",
+  "notes": "Notificaciones de actualizaciones, cuentas pendientes y resumen mensual. Listas de precios renovadas con PDF e imágenes. Fichas de clientes compactas, altas y comparaciones en Estadísticas. Rangos en Historial, configuración con vista previa de tema y mejoras de uso móvil.",
   "mandatory": false,
-  "signature": "PveOc-1EiM9dhU2Z53uG7m5yuUeriieLs0T0ucLRo3TP_N7GUJiBrDwRgCiBhxvY9yvuvAYzGs3m99hbR-ieBw"
+  "signature": "EeT5QFHRp6z7GUljIe_gPv3uTNkQout-GfrUgRlZ8jvzzX2T3jN4ZC2gXYDLi3j_D-KAyDuRi9hIy9l7dQF_AQ"
 }
