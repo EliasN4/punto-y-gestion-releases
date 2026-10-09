@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.22",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.22.exe",
-  "sha256": "58cc27ada136933da84f3e49261ae4cf3ab80857956fe3800117b1100c09e881",
-  "notes": "Búsqueda global de clientes, ventas, comprobantes y productos. Resumen semanal y sugerencias guiadas opcionales. Pagos del POS renovados y acceso compacto en celular. Recibo A5 horizontal más claro. Listas de precios con categorías ordenadas, opción para evitar cortes e iconos de contacto alineados. Historial de Estadísticas con fechas y filtros alineados. Mejoras para claro, oscuro y celular.",
+  "version": "2.1.23",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.23.exe",
+  "sha256": "8f17da982a6e750ffc0a3bc4c6ae78276de93e5dbb6678df2a239d106b73594f",
+  "notes": "Actualizaciones legibles en claro, oscuro y celular. Listas de precios con aviso de valores sujetos a cambios. Descargas PDF/JPG/ZIP con acceso Abrir carpeta en PC. Avisos de nuevas versiones cada minuto mientras el sistema está abierto y conectado, con acceso a descarga e instalación verificada. Buscador global y lista de deudores del POS móvil corregidos; WhatsApp del historial reparado.",
   "mandatory": false,
-  "signature": "4A04dO4cdrypE1GHR5u5JmsyE3C5KeD-fdJlXLvZ-kLfFwNv8wSBr4qpWXoJBxePpxFiNP6bIFClruEl90gmAQ"
+  "signature": "AMWS_JEvzL3puMAgz3aixji4KOPEZgB3T_uvlyQ46X0pdbLaf1vdgRcQ1hKOZon_3f04CQjrW6z9IrhVuTi_CA"
 }
