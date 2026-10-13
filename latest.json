@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.24",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.24.exe",
-  "sha256": "ca9987996ff63154798ce9024e0e3a2600b5b2c1a98b4e17611967875a61e763",
-  "notes": "Caja simple con guardado e historial reforzados. Cuentas corrientes y comprobantes más claros: compra nueva, deuda anterior, pagos y saldo. Clientes y Productos renovados para claro, oscuro y celular. Estado de cuenta sin DNI/CUIT y venta A5 con cliente, número y fecha en una fila. Acciones de Clientes alineadas y WhatsApp separado de Ver ficha.",
+  "version": "2.1.25",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.25.exe",
+  "sha256": "f6af6483652486f59a8a541fc800ccb9492705d41b41b1e15e9a059666ccb7f2",
+  "notes": "POS renovado con alta de clientes y productos desde Caja, cobros recuperables y controles más claros. Productos con búsqueda fluida, subcategorías e historial de precios. WhatsApp con emojis y listas más prácticas. Auditoría y Estadísticas con cierre Z y lote separados del POS. Carteles Producto destacado centrados, con código interno o barras. Barra lateral, tutoriales ilustrados y acceso único a Soporte y sugerencias renovados. Modos claro, oscuro y celular.",
   "mandatory": false,
-  "signature": "rY8FDQ46SVQJaO-1WLHFzFKTNbLADQYuRyf1qsV-8VZDqezwoSm4AL1OqcoPp7upYjk2tnyiFzItq5TPd2fUDg"
+  "signature": "NxK9Q3arlIirnJ8VooILWN-kddxMphemAxNCxBaoUI_fOLo-eLnLbzbcbH2lKpyWBr6YwqVis7Aw0BdKCo09CQ"
 }
