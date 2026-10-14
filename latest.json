@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.26",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.26.exe",
-  "sha256": "d65235cf78d7708ad41e29cdc96dc84a980ff13f9e9e6b459a69071166f6faa2",
-  "notes": "Cobros y saldos vigentes, recibos mixtos y cambios simultáneos protegidos. Anulaciones y devoluciones con salida real y cierres conservados. Recuperación de respaldos coordinada con las pantallas abiertas. Productos, búsquedas, listas y carteles más ágiles. Informes con cobros, devoluciones y neto. Menú lateral más discreto, iconos fijos pequeños y desplazamiento conservado. A5 vertical reservado para pruebas posteriores.",
+  "version": "2.1.27",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.27.exe",
+  "sha256": "7265023892e82e18ff25820c611a0380e1dbc853773e3480ac27fe874437a7fa",
+  "notes": "Corregida la venta fraccionada en kg y medidas con configuraciones antiguas. Cantidades coherentes entre modal, entrada rápida, carrito y cobro. Unidades y cajas mantienen cantidades enteras. Pedidos conserva una altura estable.",
   "mandatory": false,
-  "signature": "9GLTVSxbCfdhZJahZXtNiA1qBB_pg6ljbs7PNRRPebRPo_vw6m1hR2bPeyse6byF_lX8lm_QpF-fABMVvY_HAA"
+  "signature": "uN5fP6dtzce0ehjN9lDgzwgB5pJfPORBTtbVC8Wjxm5naaUvwJe0cMA4HkyRNT9YcDYIMVww8Ji-9vpNquC1DQ"
 }
