@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.25",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.25.exe",
-  "sha256": "f6af6483652486f59a8a541fc800ccb9492705d41b41b1e15e9a059666ccb7f2",
-  "notes": "POS renovado con alta de clientes y productos desde Caja, cobros recuperables y controles más claros. Productos con búsqueda fluida, subcategorías e historial de precios. WhatsApp con emojis y listas más prácticas. Auditoría y Estadísticas con cierre Z y lote separados del POS. Carteles Producto destacado centrados, con código interno o barras. Barra lateral, tutoriales ilustrados y acceso único a Soporte y sugerencias renovados. Modos claro, oscuro y celular.",
+  "version": "2.1.26",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.26.exe",
+  "sha256": "d65235cf78d7708ad41e29cdc96dc84a980ff13f9e9e6b459a69071166f6faa2",
+  "notes": "Cobros y saldos vigentes, recibos mixtos y cambios simultáneos protegidos. Anulaciones y devoluciones con salida real y cierres conservados. Recuperación de respaldos coordinada con las pantallas abiertas. Productos, búsquedas, listas y carteles más ágiles. Informes con cobros, devoluciones y neto. Menú lateral más discreto, iconos fijos pequeños y desplazamiento conservado. A5 vertical reservado para pruebas posteriores.",
   "mandatory": false,
-  "signature": "NxK9Q3arlIirnJ8VooILWN-kddxMphemAxNCxBaoUI_fOLo-eLnLbzbcbH2lKpyWBr6YwqVis7Aw0BdKCo09CQ"
+  "signature": "9GLTVSxbCfdhZJahZXtNiA1qBB_pg6ljbs7PNRRPebRPo_vw6m1hR2bPeyse6byF_lX8lm_QpF-fABMVvY_HAA"
 }
