@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.28",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.28.exe",
-  "sha256": "ffd4bcc3fa74d9d879653dcbfdb8cc29d69e7c7c6cbe9f7f9a91787e3dc3c9e8",
-  "notes": "Caja simple: recuperación de pendientes, guardado e historial mejorados. A5 horizontal y vertical guardados en configuración. Configuración unificada de negocio, Caja, equipo y sistema. POS con buscador estable, modales renovados, selector de precios compacto y control de deuda alineado. Combos más claros con múltiples productos. Estadísticas y modos claro, oscuro y celular mejorados. Conserva la corrección de ventas por peso de 2.1.27.",
+  "version": "2.1.29",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.29.exe",
+  "sha256": "a960671bb5627d280ac8b2c76ec3e8e3c6399e8de1c98eedf02d8e2fb82522b4",
+  "notes": "Corrección crítica del POS: permite volver a agregar un producto al pedido desde la entrada rápida y el buscador. Impresión directa Windows corregida para A5 vertical, A5 horizontal y A4, con mejor control de recursos, estado del envío y prevención de solicitudes simultáneas. Conserva las mejoras de 2.1.28.",
   "mandatory": false,
-  "signature": "QmrScroZm0UT4Bb1mamomk5ZIp9Nx15PyJnvYxVmLRNfOE1j5WbLoTbZu4XiQvsTbbikD02pc6BuI5OCY61tCA"
+  "signature": "VhlBR24PVyOuBqnrZjPLkyEx6qK_vIw6CmxykdLWKsE5bRieysgOIToKiKZlWOenSNp3Kb-SRuaNpJwicadFCw"
 }
