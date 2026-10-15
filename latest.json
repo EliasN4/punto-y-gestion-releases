@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.27",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.27.exe",
-  "sha256": "7265023892e82e18ff25820c611a0380e1dbc853773e3480ac27fe874437a7fa",
-  "notes": "Corregida la venta fraccionada en kg y medidas con configuraciones antiguas. Cantidades coherentes entre modal, entrada rápida, carrito y cobro. Unidades y cajas mantienen cantidades enteras. Pedidos conserva una altura estable.",
+  "version": "2.1.28",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.28.exe",
+  "sha256": "ffd4bcc3fa74d9d879653dcbfdb8cc29d69e7c7c6cbe9f7f9a91787e3dc3c9e8",
+  "notes": "Caja simple: recuperación de pendientes, guardado e historial mejorados. A5 horizontal y vertical guardados en configuración. Configuración unificada de negocio, Caja, equipo y sistema. POS con buscador estable, modales renovados, selector de precios compacto y control de deuda alineado. Combos más claros con múltiples productos. Estadísticas y modos claro, oscuro y celular mejorados. Conserva la corrección de ventas por peso de 2.1.27.",
   "mandatory": false,
-  "signature": "uN5fP6dtzce0ehjN9lDgzwgB5pJfPORBTtbVC8Wjxm5naaUvwJe0cMA4HkyRNT9YcDYIMVww8Ji-9vpNquC1DQ"
+  "signature": "QmrScroZm0UT4Bb1mamomk5ZIp9Nx15PyJnvYxVmLRNfOE1j5WbLoTbZu4XiQvsTbbikD02pc6BuI5OCY61tCA"
 }
