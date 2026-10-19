@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.29",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.29.exe",
-  "sha256": "a960671bb5627d280ac8b2c76ec3e8e3c6399e8de1c98eedf02d8e2fb82522b4",
-  "notes": "Corrección crítica del POS: permite volver a agregar un producto al pedido desde la entrada rápida y el buscador. Impresión directa Windows corregida para A5 vertical, A5 horizontal y A4, con mejor control de recursos, estado del envío y prevención de solicitudes simultáneas. Conserva las mejoras de 2.1.28.",
+  "version": "2.1.34",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.34.exe",
+  "sha256": "574ede8fe4a9731fcb77d59fbf86dd74be2e63402dc6905e0e634b5fc049b979",
+  "notes": "Tickets de 58 y 80 mm con impresión Windows y prueba de formato; correcciones de cierre, persistencia e historial de Caja Simple. Corrección de medios de pago y estadísticas más rápidas. Facturación electrónica deshabilitada: Muy pronto.",
   "mandatory": false,
-  "signature": "VhlBR24PVyOuBqnrZjPLkyEx6qK_vIw6CmxykdLWKsE5bRieysgOIToKiKZlWOenSNp3Kb-SRuaNpJwicadFCw"
+  "signature": "fKTuiivFYQI7Hml1JIDHGJsp9KPRhV8knyp4RDj9umG3RIGUfVkyHASSbS5WsWKz8OdMFM_iIOsFGx-B62SwBw"
 }
