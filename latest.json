@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.34",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.34.exe",
-  "sha256": "574ede8fe4a9731fcb77d59fbf86dd74be2e63402dc6905e0e634b5fc049b979",
-  "notes": "Tickets de 58 y 80 mm con impresión Windows y prueba de formato; correcciones de cierre, persistencia e historial de Caja Simple. Corrección de medios de pago y estadísticas más rápidas. Facturación electrónica deshabilitada: Muy pronto.",
+  "version": "2.1.35",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.35.exe",
+  "sha256": "2ef95e3995042821fc69b6fe8e0e1498213569c4f70bf2f1e2b4cac7f16e477a",
+  "notes": "Facturación ARCA por comercio con guía y habilitación propia. Confirmación antes del POS fiscal y fondo cobre. Primeros pasos, ayudas y nuevo instalador. Incluye mejoras de tickets 58/80 mm, Caja Simple y estadísticas.",
   "mandatory": false,
-  "signature": "fKTuiivFYQI7Hml1JIDHGJsp9KPRhV8knyp4RDj9umG3RIGUfVkyHASSbS5WsWKz8OdMFM_iIOsFGx-B62SwBw"
+  "signature": "bbNzGfSfmqSlhWtRwSwKG98ViJ14XuWO1WvwXOY5w15CB9tcGgcKe7ueCA8nX9nW3CKRZ9JVMlekPUin_JwUDg"
 }
