@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.36",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.36.exe",
-  "sha256": "281d90b1d499f91bb1a47259a6393ba7c0a7b14849cb5560267d0ac6e4b6932f",
-  "notes": "Correcciones y carga más ágil de productos y cuentas corrientes. Detalle de deudas, pendientes y clientes activos consistentes. Gráfico horario y referencias de comprobantes corregidos. Conserva las mejoras de tickets, Caja Simple y conexión ARCA por comercio.",
+  "version": "2.1.37",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.37.exe",
+  "sha256": "20b2b8b08cbb5a11bae9f8a594304cd1c8329342f1133873c85976b314404306",
+  "notes": "Venta por metro y fracciones disponible también en instalaciones anteriores. Formulario de productos más simple, guías actualizadas y aviso de impresión renovado para claro, oscuro y celular. Conserva las mejoras de tickets, Caja Simple y conexión ARCA por comercio.",
   "mandatory": false,
-  "signature": "Hxe8LLJMNqbyINEbvZVd0Rv2QnuaiTgbeFUJXEJKqu0kPhrrYJ7RqzMrQ6ZZfG8EalMRc0OAge3GT3WMoPIcAw"
+  "signature": "AKMb2_1sOIajjckBzPd403Fc7MLYWqfRCgpkddnVMdOfFhL7OrNrx1-rSIuLSTd-uwYrRK3klK0l5yM7nKobDw"
 }
