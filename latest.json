@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.38",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.38.exe",
-  "sha256": "98e8c914368f33901b6924cfc966994b22fdd2c8ee2c814d28bb16f04bbe1c6e",
-  "notes": "Nuevo Inicio, barra lateral renovada y estilos unificados para claro, oscuro y celular. Corrección del guardado previo a cobrar en cuenta corriente y mejoras de rendimiento. Conserva tickets, Caja Simple y conexión ARCA por comercio. WhatsApp continúa en preparación y requiere habilitación de Meta.",
+  "version": "2.1.39",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.39.exe",
+  "sha256": "264ebac32305755f5cd892d4c8b2635c20284cab3e36e1405c23af818e9972a1",
+  "notes": "POS más ágil, búsqueda móvil y cantidades con coma. Impresión unificada, correcciones en cuentas corrientes, estadísticas y Caja Simple. Instalador renovado y componentes de PDF actualizados. Conserva los datos y la conexión ARCA de cada comercio. WhatsApp requiere la habilitación de Meta.",
   "mandatory": false,
-  "signature": "n2kyF72Jt2ky1bj7qwuh-POkNFAMcj8U5UG84f8awEEYJI_sR-Qz_jG5P9tzSf4MsooSBMQH90IEjPjAn-VRCQ"
+  "signature": "2h2V-OrYA2_ghwHNY_qSDJisZBMAze6AqCKFD3dgL0fJdXbg89xQh56CkRmeWf-5Fi_4YHY1GQ2DK2GpFdAPBg"
 }
