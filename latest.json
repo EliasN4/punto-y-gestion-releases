@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.40",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.40.exe",
-  "sha256": "86dfe9e998ad1cf96ad85c16155eda565047ab9cec3b271998fb63fe98475071",
-  "notes": "Nuevo Inicio con guías visuales y avisos; barra más fina y consistente; POS, búsqueda, Productos, Clientes y filtros fiscales más claros. Incluye las mejoras anteriores de tickets, impresión y Caja Simple. Conserva tus registros y la configuración de tu negocio. Imprimir del POS envía directo; PDF/Web permite revisar el comprobante e imprimir desde esa misma vista.",
+  "version": "2.1.41",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.41.exe",
+  "sha256": "d474ee8a161b3e0886439ae6d8d676c885b59d5fe12016fb178b533b87e03403",
+  "notes": "Inicio renovado con guías visuales, resumen del día y pendientes del negocio. Nuevas fichas de envío con destinos guardados, correo y peso opcionales, tamaños A4/A5 e impresión directa. Copiar y pegar productos entre carritos, lectura consecutiva de códigos de barras y ajustes del POS y Carteles. La actualización conserva los datos y la configuración de cada comercio.",
   "mandatory": false,
-  "signature": "2fdLJsteFF8Cufahcuj5c0v_SsHiXGX-uyJCy9nSdCG-92ifSIz-mRfwfzs_v8ptv5oAIzMDiQ0E_ty1rrCxBA"
+  "signature": "vjvg0E217DEwKQTNkpkeP3mswr5LRFcbO7dxXe_S1CTi4KMnOiJKnaIk1tW3E79QYq45iEocSPDlc-Ge8Gf6Cw"
 }
