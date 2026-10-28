@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.41",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.41.exe",
-  "sha256": "d474ee8a161b3e0886439ae6d8d676c885b59d5fe12016fb178b533b87e03403",
-  "notes": "Inicio renovado con guías visuales, resumen del día y pendientes del negocio. Nuevas fichas de envío con destinos guardados, correo y peso opcionales, tamaños A4/A5 e impresión directa. Copiar y pegar productos entre carritos, lectura consecutiva de códigos de barras y ajustes del POS y Carteles. La actualización conserva los datos y la configuración de cada comercio.",
+  "version": "2.1.42",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.42.exe",
+  "sha256": "1811593cda52a97fa5c30cf9785c86cee5e1a57283a6048ef19bbe80225a47f7",
+  "notes": "Nuevo módulo Compras: armá pedidos a proveedores con tus productos, anotá respuestas y entregas parciales, y consultá lo que falta. Funciona en modo libre o con stock; las entregas se registran una sola vez y conservan su historial. Prepará documentos PDF y Excel. Inicio suma una guía paso a paso, y Productos y Clientes estrenan un diseño más visual con imágenes y ayuda a mano. Se conservan los registros, la configuración fiscal y las funciones de Caja.",
   "mandatory": false,
-  "signature": "vjvg0E217DEwKQTNkpkeP3mswr5LRFcbO7dxXe_S1CTi4KMnOiJKnaIk1tW3E79QYq45iEocSPDlc-Ge8Gf6Cw"
+  "signature": "ge7_a77Pytf0g4VvfN6ObtriVK-D5sJscshDbFIjIKpI5HijfYmcZ2RwPiInBIOJx2-tEzbhpV9ofYw4Pe5ZBA"
 }
