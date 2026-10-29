@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.42",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.42.exe",
-  "sha256": "1811593cda52a97fa5c30cf9785c86cee5e1a57283a6048ef19bbe80225a47f7",
-  "notes": "Nuevo módulo Compras: armá pedidos a proveedores con tus productos, anotá respuestas y entregas parciales, y consultá lo que falta. Funciona en modo libre o con stock; las entregas se registran una sola vez y conservan su historial. Prepará documentos PDF y Excel. Inicio suma una guía paso a paso, y Productos y Clientes estrenan un diseño más visual con imágenes y ayuda a mano. Se conservan los registros, la configuración fiscal y las funciones de Caja.",
+  "version": "2.1.43",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.43.exe",
+  "sha256": "3f976566bcf3b8824a130da7e7f20bea57becf48b13b549552fc9abdcec53c83",
+  "notes": "Nueva presentación con ilustraciones integradas, bienvenida con el nombre de tu negocio e iconos propios. Guías revisadas y mejoras de claridad para gestionar ventas, editar productos y aplicar cambios a varios artículos. Adaptación a claro, oscuro y celular. Conserva tus registros y la configuración de tu comercio.",
   "mandatory": false,
-  "signature": "ge7_a77Pytf0g4VvfN6ObtriVK-D5sJscshDbFIjIKpI5HijfYmcZ2RwPiInBIOJx2-tEzbhpV9ofYw4Pe5ZBA"
+  "signature": "BtfF-Vt-V5vKEFcEU91ffGhdH2TCJFXBnS7uKLx55XmZc43Jmi_K40a0WIYN9nYF1QkGYBB3r92n9whYj6tFCQ"
 }
