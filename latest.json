@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.44",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.44.exe",
-  "sha256": "e4fbc84e0242800c1067a911e1474d2ebdafd47854e74cfdb47f01abc5bb2674",
-  "notes": "Más simple para vender y cuidar tu catálogo. El POS aprovecha mejor la pantalla y mejora el cobro y la selección de variantes. Editar producto abre la ficha completa, con foto y encuadre, descripción e IVA. Gestionar productos te guía para organizar categorías y ajustar precios, indicando qué artículos cambiarán antes de aplicar. Con stock activado se controla lo disponible; el modo libre sigue disponible. Lista de precios recuerda tu última selección en este navegador. Auditoría suma cajas pendientes y correcciones supervisadas con historial; Compras cambia de pestaña sin recargar toda la pantalla. Se conservaron las funciones y la configuración de cada comercio. Terminá tus operaciones, cerrá el programa e instalá en la carpeta habitual para actualizar.",
+  "version": "2.1.45",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.45.exe",
+  "sha256": "f05f9479ee34808caa42bc837e1d97839134777bfea67ca06846f56ab91f90d0",
+  "notes": "Punto & Gestión 2.1.45\n\nMejoras de compatibilidad de tickets de 58 y 80 mm, selección y prueba de impresoras, control de errores antes del envío y protección contra duplicados.\nAuditoría diaria suma un acceso a la última jornada cerrada. Conserva los registros y la conexión fiscal de cada comercio.",
   "mandatory": false,
-  "signature": "FbUIEZ-MTyhkFLziCBKklFHvr9YN76x_Obwa4ItZCzgvFSpj7n94qPxDzFSgPeSShjR2KA58jsHgTXD9OjL0Cw"
+  "signature": "8fjoaq_eHohSDYzUlywa6y2g7j9Bsmt3DETHp4LNjsunBdW0IoJrF6okkBuObJuF_NxJOIQpZ_MfxR77ohl5DA"
 }
