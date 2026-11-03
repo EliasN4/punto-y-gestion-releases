@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.46",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.46.exe",
-  "sha256": "3bcfee1ea93c965b05fd24609f3bacb738ce48219681154ec4f9aaea1de3412b",
-  "notes": "Punto & Gestión 2.1.46\n\nCorrección urgente para tickets de 80 y 58 mm: reconoce el ancho imprimible de controladores como Xprinter y admite tickets largos sin achicar la letra. Conserva tu impresora, registros y conexión fiscal.",
+  "version": "2.1.47",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.47.exe",
+  "sha256": "4b0f4af8ea66a212455fdd90f56bd91a9a8d914fc328e4006d384a3e7b57d543",
+  "notes": "Modo oscuro unificado con iconos salmón. Notificaciones más claras: descargá e iniciá la actualización desde el aviso. Instalador con capturas reales y explicaciones, sonidos más suaves y mejoras de contraste. Incluye las correcciones de impresión de tickets de 58 y 80 mm de la 2.1.46. Conserva tus registros y la conexión de ARCA.",
   "mandatory": false,
-  "signature": "UTOTS3QSlKvQvRnTb9m6k67QhCB0lMwC4i9u2o1lhd1g8HxT4yCy_c_Ckt7kgpCN_NbqpYbK38_xgcj1w412Cg"
+  "signature": "FlxM1VojDFRDMnja2Z-eDlZyHMajRsv0LWjpyg1oON8zhJnK5n2rNtkhu9cT-W9xl7bpoqRW6T8T-6PJ53fJDQ"
 }
