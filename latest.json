@@ -1,9 +1,9 @@
 {
   "product": "punto-y-gestion",
-  "version": "2.1.45",
-  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.45.exe",
-  "sha256": "f05f9479ee34808caa42bc837e1d97839134777bfea67ca06846f56ab91f90d0",
-  "notes": "Punto & Gestión 2.1.45\n\nMejoras de compatibilidad de tickets de 58 y 80 mm, selección y prueba de impresoras, control de errores antes del envío y protección contra duplicados.\nAuditoría diaria suma un acceso a la última jornada cerrada. Conserva los registros y la conexión fiscal de cada comercio.",
+  "version": "2.1.46",
+  "download_url": "https://raw.githubusercontent.com/EliasN4/punto-y-gestion-releases/main/Instalar_Punto_y_Gestion_2.1.46.exe",
+  "sha256": "3bcfee1ea93c965b05fd24609f3bacb738ce48219681154ec4f9aaea1de3412b",
+  "notes": "Punto & Gestión 2.1.46\n\nCorrección urgente para tickets de 80 y 58 mm: reconoce el ancho imprimible de controladores como Xprinter y admite tickets largos sin achicar la letra. Conserva tu impresora, registros y conexión fiscal.",
   "mandatory": false,
-  "signature": "8fjoaq_eHohSDYzUlywa6y2g7j9Bsmt3DETHp4LNjsunBdW0IoJrF6okkBuObJuF_NxJOIQpZ_MfxR77ohl5DA"
+  "signature": "UTOTS3QSlKvQvRnTb9m6k67QhCB0lMwC4i9u2o1lhd1g8HxT4yCy_c_Ckt7kgpCN_NbqpYbK38_xgcj1w412Cg"
 }
